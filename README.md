@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Soares a.k.a nyeeldzn</h1>
+<h1 align="center">Hi 👋, I'm Daniel Soares</h1>
 <h3 align="center">Full Stack Developer | Delphi, Object Pascal, React Native, JavaScript, Python</h3>
 
 Passionate about **Delphi and Object Pascal**, with extensive experience in developing high-performance and scalable enterprise applications. Enthusiastic about coding, always seeking to understand, optimize, and innovate. Skilled in **React, React Native, Next.js, Node.js**, and **TypeScript**, building modern web and mobile solutions. Also interested in **Generative AI (RAG & Prompting)**, always exploring new ways to enhance technology through artificial intelligence. 🚀  
