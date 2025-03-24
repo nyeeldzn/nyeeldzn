@@ -35,7 +35,7 @@ Passionate about **Delphi and Object Pascal**, with extensive experience in deve
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyeeldzn&theme=algolia" alt="GitHub Stats" />
 
 ## 📚 Articles & Publications:
-*Coming soon...*
+[Dismistificando Inteligência Artificial: História e Teoria das IA’s](https://medium.com/@nyeeldzn/dismistificando-intelig%C3%AAncia-artificial-hist%C3%B3ria-e-teoria-das-ias-625bb4681a74)
 
 ---
 
