@@ -35,8 +35,8 @@ Passionate about **Delphi and Object Pascal**, with extensive experience in deve
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyeeldzn&theme=algolia" alt="GitHub Stats" />
 
 ## 📚 Articles & Publications:
-[Dismistificando Inteligência Artificial: História e Teoria das IA’s](https://medium.com/@nyeeldzn/dismistificando-intelig%C3%AAncia-artificial-hist%C3%B3ria-e-teoria-das-ias-625bb4681a74)
-[Desmistificando Inteligência Artificial: O Básico de um Autocomplete](https://medium.com/@nyeeldzn/desmistificando-intelig%C3%AAncia-artificial-o-b%C3%A1sico-de-um-autocomplete-dcb5ef68f6aa)
+- [Dismistificando Inteligência Artificial: História e Teoria das IA’s](https://medium.com/@nyeeldzn/dismistificando-intelig%C3%AAncia-artificial-hist%C3%B3ria-e-teoria-das-ias-625bb4681a74)
+- [Desmistificando Inteligência Artificial: O Básico de um Autocomplete](https://medium.com/@nyeeldzn/desmistificando-intelig%C3%AAncia-artificial-o-b%C3%A1sico-de-um-autocomplete-dcb5ef68f6aa)
 
 ---
 
